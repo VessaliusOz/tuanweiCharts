@@ -1,2 +1,4 @@
+git tracks changes
 the first line
 add one line
+the another change
